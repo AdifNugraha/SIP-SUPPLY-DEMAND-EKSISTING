@@ -26,7 +26,7 @@ var style_SupplyKopi_5 = function(feature, resolution){
                   anchor: [540.0, 540.0],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
-                  rotation: 0.0,
+                  rotation: -0.0174533,
                   src: "styles/Icon Supply Kopi.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
